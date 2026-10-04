@@ -1,2 +1,2 @@
 # .github
-Plumbers Conference
+OpenVTC demo organization for plumbers conference
